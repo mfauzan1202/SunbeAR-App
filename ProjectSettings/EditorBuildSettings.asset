@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home Page.unity
+    guid: 25aee047d6567774b92e4a5be6aca399
+  - enabled: 1
+    path: Assets/Scenes/AR Camera Page.unity
+    guid: 2df50c5b2cfe456418c8194caf38ab4d
+  - enabled: 1
+    path: Assets/Scenes/About Page.unity
+    guid: 1a5c36107601fd1449c3b1c6a0c85498
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Page.unity
+    guid: bf54c04ebeb529f4e9da9ec9b85b1b5b
+  - enabled: 1
+    path: Assets/Scenes/AR Marker Camera Page.unity
+    guid: 6d0944593d9a03e42a57689b92982d20
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 56b8413e1481e564896ce7557ff2c12f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 371b093fe5c31774a992996de6894eae, type: 2}
